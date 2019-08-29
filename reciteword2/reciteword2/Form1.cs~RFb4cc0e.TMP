@@ -1,0 +1,122 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace reciteword2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            for (; groupBox3.Left  >= 0;groupBox3 .Left -- )
+                groupBox3.Left -= 2;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = true;
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            for (; groupBox3.Left  <=361; groupBox3 .Left ++)
+                groupBox3 .Left += 2;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            timer2.Enabled = true;
+            timer1.Enabled = false;        
+        }
+        
+        
+        
+        
+        public static int a, b, c, d =-1, t = 30, f = 0, g=0;
+        private void name(object sender, EventArgs e)
+        {
+            if(radioButton1 .Checked ==true)
+                label1 .Text ="单词";
+            if (radioButton2.Checked ==true)
+                label1.Text = "word";
+            for (a = 11; a >= 0; a--)
+            {
+                c = x.rd.Next(0, a);
+                d += 1;
+                x.cmiddle[d] = x.chinese[c];
+                x.emiddle[d] = x.english[c];
+            }
+        }
+
+        private void timer3_Tick(object sender, EventArgs e)
+        { 
+            t -= 1;
+            label2.Text = t.ToString();
+           
+            if (t == 0 && radioButton1.Checked == true)
+            {
+                f += 1;
+                if (f == 11)
+                    timer3.Enabled = false;
+                label1.Text = x.cmiddle[f];
+               
+                t = 30;
+
+            }
+
+            if (t == 0 && radioButton2.Checked == true)
+            {
+                f += 1;
+                label1.Text = x.emiddle[f];
+                t = 30;
+            }
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (radioButton1.Checked == true)
+                label1.Text = x.cmiddle[0];
+            if (radioButton2.Checked == true)
+                label1.Text = x.emiddle[0];
+            timer3.Enabled = true;
+            
+        }
+
+        //核对答案和评分
+        public void check(object sender, EventArgs e)
+        {
+            if (radioButton1.Checked == true)
+            {
+                d += 1;
+                if (textBox1.Text == x.emiddle[d])
+                {
+                    g += 10;
+                    label5.Text = "SCORE" + g.ToString() + "/120";
+                }
+                if (textBox1.Text != x.emiddle[d])
+                {
+                    listBox1.Items.Add(x.emiddle[d]);
+                }
+            }
+
+
+        }
+
+        private void check()
+        {
+
+        }
+
+    }
+}

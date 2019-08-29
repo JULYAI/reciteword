@@ -1,0 +1,67 @@
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\bin\Debug\reciteword2.exe
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\bin\Debug\reciteword2.pdb
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\bin\Debug\Interop.MPSLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\bin\Debug\AxInterop.MPSLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\ResolveAssemblyReference.cache
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\Interop.MPSLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\AxInterop.MPSLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.csproj.ResolveComReference.cache
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.Form1.resources
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.Properties.Resources.resources
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.csproj.GenerateResource.Cache
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.exe
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.pdb
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\bin\Debug\Interop.TTPCtrlLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\bin\Debug\AxInterop.TTPCtrlLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\Interop.TTPCtrlLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\AxInterop.TTPCtrlLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\bin\Debug\Interop.WMPLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\bin\Debug\AxInterop.WMPLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\Interop.WMPLib.dll
+D:\个人资料管理\Administrator\我的文档\Visual Studio 2008\Projects\reciteword2\reciteword2\obj\Debug\AxInterop.WMPLib.dll
+E:\Projects\reciteword2\reciteword2\obj\Debug\Interop.MPSLib.dll
+E:\Projects\reciteword2\reciteword2\obj\Debug\Interop.WMPLib.dll
+E:\Projects\reciteword2\reciteword2\obj\Debug\AxInterop.MPSLib.dll
+E:\Projects\reciteword2\reciteword2\obj\Debug\AxInterop.WMPLib.dll
+E:\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.csproj.ResolveComReference.cache
+E:\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.exe
+E:\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.pdb
+E:\Projects\reciteword2\reciteword2\bin\Debug\reciteword2.exe
+E:\Projects\reciteword2\reciteword2\bin\Debug\reciteword2.pdb
+E:\Projects\reciteword2\reciteword2\bin\Debug\Interop.MPSLib.dll
+E:\Projects\reciteword2\reciteword2\bin\Debug\Interop.WMPLib.dll
+E:\Projects\reciteword2\reciteword2\bin\Debug\AxInterop.MPSLib.dll
+E:\Projects\reciteword2\reciteword2\bin\Debug\AxInterop.WMPLib.dll
+E:\Projects\reciteword2\reciteword2\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.Form1.resources
+E:\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.Properties.Resources.resources
+E:\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.csproj.GenerateResource.Cache
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\Interop.MPSLib.dll
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\Interop.WMPLib.dll
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\AxInterop.MPSLib.dll
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\AxInterop.WMPLib.dll
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.csproj.ResolveComReference.cache
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.exe
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.pdb
+E:\完成的作业\Projects\reciteword2\reciteword2\bin\Debug\reciteword2.exe
+E:\完成的作业\Projects\reciteword2\reciteword2\bin\Debug\reciteword2.pdb
+E:\完成的作业\Projects\reciteword2\reciteword2\bin\Debug\Interop.MPSLib.dll
+E:\完成的作业\Projects\reciteword2\reciteword2\bin\Debug\Interop.WMPLib.dll
+E:\完成的作业\Projects\reciteword2\reciteword2\bin\Debug\AxInterop.MPSLib.dll
+E:\完成的作业\Projects\reciteword2\reciteword2\bin\Debug\AxInterop.WMPLib.dll
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\ResolveAssemblyReference.cache
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.Form1.resources
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.Properties.Resources.resources
+E:\完成的作业\Projects\reciteword2\reciteword2\obj\Debug\reciteword2.csproj.GenerateResource.Cache
+D:\AboutMyCodeStudy\reciteword2\reciteword2\bin\Debug\reciteword2.exe
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\reciteword2.csprojAssemblyReference.cache
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\Interop.WMPLib.dll
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\AxInterop.WMPLib.dll
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\reciteword2.csproj.ResolveComReference.cache
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\bdc.Form1.resources
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\reciteword2.Properties.Resources.resources
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\reciteword2.csproj.GenerateResource.cache
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\reciteword2.csproj.CoreCompileInputs.cache
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\reciteword2.csproj.CopyComplete
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\reciteword2.exe
+D:\AboutMyCodeStudy\reciteword2\reciteword2\obj\Debug\reciteword2.pdb
